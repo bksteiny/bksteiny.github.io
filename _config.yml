@@ -21,6 +21,9 @@ url: "http://chrisstein.io"
 twitter_username: 
 github_username:  bksteiny
 
+# Google Analytics
+google_analytics: UA-86859587-1
+
 # Build settings
 markdown: kramdown
 theme: minima
