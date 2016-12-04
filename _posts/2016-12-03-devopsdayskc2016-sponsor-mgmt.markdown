@@ -14,7 +14,7 @@ Sponsor Management includes the following:
 5. Shipping Logistics
 6. Pitch & Raffle Coordination
 
-I covered Prospectus creation in [/_posts/2016/11/13/devopsdayskc2016-dates-venues-things-sponsors-ask-for.html](Dates, Venues, and Things Sponsors Ask For), so I won’t cover it here. I’ll skip to the Sponsorship Guide.
+I covered prospectus creation in the [Dates, Venues, and Things Sponsors Ask For](http://chrisstein.io/devopsdays/2016/11/13/devopsdayskc2016-dates-venues-things-sponsors-ask-for.html) post, so I won’t cover it here. I’ll skip to the Sponsorship Guide.
 
 ### Sponsorship Guide
 
@@ -33,11 +33,11 @@ After signing and receiving payment from new sponsor, 4 things needed to happen 
 
 ##### Logo Publishing
 
-In order to publish a sponsors logo, one had to make a Pull Request on the [https://github.com/devopsdays/devopsdays-web](devopsdays-web) GitHub repo. I have the ability to use GitHub Enterprise at work, and I love it, so I was pretty pumped about this because it’s really the first time I had a reason to use GitHub outside of work. There wasn't a lot to it. The folks in charge of that repo created [https://github.com/devopsdays/devopsdays-web/blob/master/CONTRIBUTING.md](great documentation), which made it really easy to test and contribute changes. It was really my first chance to contribute content to a project that included more than my immediate team (or even teams within my organization).
+In order to publish a sponsors logo, one had to make a Pull Request on the [devopsdays-web](https://github.com/devopsdays/devopsdays-web) GitHub repo. I have the ability to use GitHub Enterprise at work, and I love it, so I was pretty pumped about this because it’s really the first time I had a reason to use GitHub outside of work. There wasn't a lot to it. The folks in charge of that repo created [great documentation](https://github.com/devopsdays/devopsdays-web/blob/master/CONTRIBUTING.md), which made it really easy to test and contribute changes. It was really my first chance to contribute content to a project that included more than my immediate team (or even teams within my organization).
 
 ##### Tweets
 
-Once the logo was published, we shared our appreciation with the world by thanking our latest sponsor via Twitter. The Tweet had to at least include a 'thank you', the sponsor's Twitter handle, and the level of sponsorship. Even though I don't have any social media presence anymore (unless you count [https://www.linkedin.com/in/cdstein](LinkedIn)), I took the lead on Tweeting the 'thank yous'. At first, I really didn't know what to put, Tweeting wasn't a natural thing for me to do. However, as time went on, the weirdness started to wear and I didn't worry about whether or not I was going to say the wrong thing.
+Once the logo was published, we shared our appreciation with the world by thanking our latest sponsor via Twitter. The Tweet had to at least include a 'thank you', the sponsor's Twitter handle, and the level of sponsorship. Even though I don't have any social media presence anymore (unless you count [LinkedIn](https://www.linkedin.com/in/cdstein)), I took the lead on Tweeting the 'thank yous'. At first, I really didn't know what to put, Tweeting wasn't a natural thing for me to do. However, as time went on, the weirdness started to wear and I didn't worry about whether or not I was going to say the wrong thing.
 
 There were times when we had multiple sponsors sign-up within the same day or two, so we tried not to overlap the a 'thank you' Tweet within the same 24 hour period. When this occurred, setting calendar reminders for this helped me keep track of who to thank and when to thank them.
 
