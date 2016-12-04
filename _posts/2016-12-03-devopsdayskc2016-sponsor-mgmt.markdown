@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DevOpsDays KC 2016: Sponsor Wrangler"
-date:   2016-03-18 20:20:49 -0500
+date:   2016-03-12 20:20:49 -0500
 categories: devopsdays
 ---
 One of my main responsibilities centered around sponsor management and communication. I mentioned a few things related to this in a previous post, but I think it deserves it’s own post because it is a lot more involved than I thought it would be. There's a good chance I'll miss leave out a few details in this post, but I tried to capture the biggest ones.
