@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Extract content from Docker image"
+title:  "Extracting content from Docker images"
 date:   2019-01-06 14:48:26 -0500
 categories: docker
 ---
