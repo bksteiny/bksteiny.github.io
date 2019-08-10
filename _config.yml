@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Chris Stein
+title: Blog - Chris Stein
 email: 
-description: 
+description: Ops
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://chrisstein.io"
 twitter_username: 
@@ -27,7 +27,7 @@ google_analytics: UA-86859587-1
 # Build settings
 markdown: kramdown
 theme: minima
-gems:
+plugins:
  - jekyll-feed
  - jemoji
 exclude:
