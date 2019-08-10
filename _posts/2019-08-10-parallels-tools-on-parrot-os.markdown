@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Installing Parralels Tools on Parrot OS"
+title:  "Installing Parrallels Tools on Parrot OS"
 date:   2019-08-10 16:18:03 -0500
 categories: virtualization,infosec,parrot
 ---
