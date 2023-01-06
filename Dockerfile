@@ -4,7 +4,9 @@ ENV LC_ALL C.UTF-8
 ENV LANG en_US.UTF-8
 ENV LANGUAGE en_US.UTF-8
 
-RUN apt-get -y update && apt-get -y install nodejs
+RUN apt-get -y update \
+  && apt-get -y install nodejs \
+  && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /usr/src/app
 
